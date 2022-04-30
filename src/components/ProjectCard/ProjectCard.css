@@ -1,0 +1,26 @@
+a{
+    text-decoration: none;
+}
+.project-card{
+    background-color: #198754;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    transition-delay: 0.3s;
+    transition-duration: 0.5s;
+    transition-property: all;
+    width: 100%;
+    padding: 10px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.project-card:hover{
+    padding: 15px;
+}
+.project-card h3{
+    font-weight: 600;
+}
+.project-card h5{
+    font-weight: 500;
+}

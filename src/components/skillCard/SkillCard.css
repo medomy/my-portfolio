@@ -1,0 +1,31 @@
+.skill-Card{
+    padding: 5px;
+    background-color: #301934;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    transition-delay: 0.3s;
+    transition-duration: 0.5s;
+    transition-property: all;
+    width: 100%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.skill-Card:hover{
+    padding: 10px;
+}
+.skill-Card h6{
+    font-weight: 600;
+}
+.skill-Card ul{
+    list-style: none;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

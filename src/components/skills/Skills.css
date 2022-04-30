@@ -1,0 +1,11 @@
+.skills-sec{
+    background-color: #2E2E2E;
+    border-radius: 15px;
+    width: 100%;
+    box-shadow: 0 2px 5px 1px rgb(191 64 191 / 16%);
+    color: white;
+    padding: 8px;
+}
+h2{
+    font-weight: 700;
+}
